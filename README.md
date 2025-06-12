@@ -1,3 +1,12 @@
+## Software rasterizer
+
+![SRAS_Animated](https://github.com/user-attachments/assets/d161462f-88b6-4fbd-97b2-cbd7c41fd246)
+
+
+## DirectX rasterizer
+
+![DX_Animated-ezgif com-optimize](https://github.com/user-attachments/assets/c040bb8c-b5fb-4f4e-aafb-13beddfa3094)
+
 The software rasterizer was made solely in C++ and runs on the CPU where as my DirectX Rasterizer is made in C++ with HLSL and runs on the GPU.
 
 My rasterizer includes the following features:
